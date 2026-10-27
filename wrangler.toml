@@ -5,4 +5,4 @@ compatibility_date = "2026-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "pay_bot_db"
-database_id = "ВСТАВЬТЕ_СЮДА_DATABASE_ID"
+database_id = "d2073291-013f-408d-81db-0b4be5680f2f"
